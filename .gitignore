@@ -1,0 +1,7 @@
+venv/
+.idea/
+__pycache__/
+*.pyc
+GeminiFiles/
+.env
+jarvis_memory.json
